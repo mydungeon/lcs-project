@@ -13,14 +13,6 @@ As part of the MVP for the LCS Take Home Test I created a DataTable component wi
 1. Atomic Design with DUCKs Component Design Pattern to organize separation of concerns across frontend component and functionality
 2. The tailwind css library
 
-## TODO
-
-As part of the overall MVP’s first class order of features I will employ the following if more time were allotted:
-
-1. Unit Testing for both Frontend and Backend
-2. Splunk Logging for Front and Backend to track errors, page and api traffic, cpu usage
-3. Linting and Prettier installation
-
 ## Here is a quick tour
 
 ### The Ducks Pattern
